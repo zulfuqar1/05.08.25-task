@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|c:\\users\\zulfu\\onedrive\\desktop\\z\u0027s\\code\\tasks\\05.04.25 task\\05.08.25 task\\05.08.25 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|solutionrelative:05.08.25 task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|c:\\users\\zulfu\\onedrive\\desktop\\z\u0027s\\code\\tasks\\05.04.25 task\\05.08.25 task\\05.08.25 task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|solutionrelative:05.08.25 task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|c:\\users\\zulfu\\onedrive\\desktop\\z\u0027s\\code\\tasks\\05.04.25 task\\05.08.25 task\\05.08.25 task\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2526C8D-6C49-4B90-AD4B-1B0411F39F1C}|05.08.25 Task\\05.08.25 Task.csproj|solutionrelative:05.08.25 task\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "05.08.25 Task\\Models\\Phone.cs",
+              "ToolTip": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Models\\Phone.cs",
+              "RelativeToolTip": "05.08.25 Task\\Models\\Phone.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHwAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:48:55.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "05.08.25 Task\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Models\\Product.cs",
+              "RelativeToolTip": "05.08.25 Task\\Models\\Product.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:11:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Program.cs",
+              "RelativeDocumentMoniker": "05.08.25 Task\\Program.cs",
+              "ToolTip": "C:\\Users\\zulfu\\OneDrive\\Desktop\\Z\u0027s\\Code\\Tasks\\05.04.25 Task\\05.08.25 Task\\05.08.25 Task\\Program.cs*",
+              "RelativeToolTip": "05.08.25 Task\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:47:03.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
